@@ -1,0 +1,6 @@
+{
+  "name": "PaySecure — FinTech Digital Wallet & Payments System",
+  "description": "A secure digital wallet and P2P payments platform featuring double-entry ledger integrity, TOTP two-factor authentication, rule-based fraud detection alerts, and financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
